@@ -3,7 +3,7 @@
 
      @yield('content')
 
-    <div class="footer">
+    <div class="footer ftco-subscribe-1 site-blocks-cover pb-4"  style="background-image: url('assets/frontend/images/about3.jpeg')">
       <div class="container">
         <div class="row">
           <div class="col-lg-3">
